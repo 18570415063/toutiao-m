@@ -1,15 +1,15 @@
 <template>
-  <div id="app">
-    <router-view />
+  <div>
+      视频
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+
 }
 </script>
 
-<style scoped lang="less">
+<style>
 
 </style>
